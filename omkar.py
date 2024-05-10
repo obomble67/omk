@@ -1,6 +1,3 @@
-//input = input("Enter something: ")
-//print("You entered:", input)
-//print("Google cloud API")
 def celsius_to_fahrenheit(celsius):
     return (celsius * 9/5) + 32
 
